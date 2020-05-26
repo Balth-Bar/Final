@@ -1,0 +1,11 @@
+.conter_grap{
+    padding-top: 60px;
+}
+
+body{
+    background-image: url('imagenes/background.png');
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
